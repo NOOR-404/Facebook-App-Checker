@@ -13,11 +13,10 @@
 
 ---
 
-### 📂 **COMMAND TYPE**
-- **FB Application Checker**
-
-### ⚡ **TOOL STATUS**
-- **Status**: `COMING SOON` ✅
+### 📂 **PROJECT DETAILS**
+- **COMMAND TYPE** : FB Application Checker
+- **TOOL STATUS** : `COMING SOON` ✅
+- **DEVELOPED BY** : **DANIYAL HOSSAIN NOOR**
 
 ---
 
@@ -35,7 +34,7 @@
 
 | **Platform** | **Profile Link** |
 | :--- | :--- |
-| **Facebook** | [DANIYAL HOSSAIN NOOR](https://www.facebook.com/WHO.IS.NOOR) |
+| **Facebook** | [Mohammad Noor](https://www.facebook.com/WHO.IS.NOOR) |
 | **Telegram** | [NOOR-404](https://t.me/N_O_O_R_4_0_4) |
 | **WhatsApp** | [+8801925385443](https://wa.me/+8801925385443) |
 
@@ -48,7 +47,4 @@ cd $HOME
 rm -rf Facebook-App-Checker
 git clone --depth=1 https://github.com/NOOR-404/Facebook-App-Checker.git
 cd Facebook-App-Checker
-python3 App.py
-
-<b>Developed by <a href="https://github.com/NOOR-404">NOOR-404</a></b>
-</p>
+python3 app.py
