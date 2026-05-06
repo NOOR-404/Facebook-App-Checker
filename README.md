@@ -15,8 +15,6 @@
 
 ### 📂 **PROJECT DETAILS**
 - **COMMAND TYPE** : FB Application Checker
-- **TOOL STATUS** : `COMING SOON` ✅
-- **DEVELOPED BY** : **DANIYAL HOSSAIN NOOR**
 
 ---
 
