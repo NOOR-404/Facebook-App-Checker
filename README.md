@@ -33,6 +33,19 @@ If you encounter any bugs or technical issues while executing the script, please
 
 ### **INSTALLATION GUIDE**
 ```bash
+cd $HOME
+rm -rf Facebook-App-Checker
+git clone --depth=1 https://github.com/NOOR-404/Facebook-App-Checker.git
+cd Facebook-App-Checker
+python3 app.py### **OFFICIAL CONTACT**
+- **Facebook**: [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
+- **Telegram**: [NOOR-404](https://t.me/N_O_O_R_4_0_4)
+- **WhatsApp**: [+8801925385443](https://wa.me/+8801925385443)
+
+---
+
+### **INSTALLATION GUIDE**
+```bash
 apt update && apt upgrade -y
 cd $HOME
 rm -rf Facebook-App-Checker
