@@ -45,4 +45,4 @@ cd $HOME
 rm -rf Facebook-App-Checker
 git clone --depth=1 https://github.com/NOOR-404/Facebook-App-Checker.git
 cd Facebook-App-Checker
-python3 app.py
+python3 App.py
