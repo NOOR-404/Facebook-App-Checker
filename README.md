@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-COMING%20SOON-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-ACTIVE-green?style=for-the-badge" />
 </p>
 
 ---
